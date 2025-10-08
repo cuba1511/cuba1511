@@ -1,4 +1,4 @@
-## Hi there 👋
+👋
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cuba1511)
 <!--
